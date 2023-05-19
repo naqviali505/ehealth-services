@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A049AF"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:id="@+id/cjn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="40dp"
+        android:text="Make Appointment"
+        android:textColor="#132271"
+        android:textSize="35dp"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:id="@+id/cjn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="250dp"
+        android:text="Update Doctor Name:"
+        android:textColor="#1C2868"
+        android:textSize="30dp"
+        android:textStyle="bold"></TextView>
+
+
+    <TextView
+        android:id="@+id/cjn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cjn1"
+        android:layout_marginLeft="20dp"
+        android:text="Update Date:"
+        android:textColor="#1C2868"
+        android:textSize="30dp"
+        android:textStyle="bold"></TextView>
+
+    <Button
+        android:id="@+id/cjnt4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cjn2"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="40dp"
+        android:background="@color/browser_actions_bg_grey"
+        android:text="ok:"
+        android:textColor="#1C2868"
+        android:textSize="30dp"
+        android:textStyle="bold"></Button>
+
+</RelativeLayout>

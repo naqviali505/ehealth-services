@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/ManageProfile"
+      android:icon="@drawable/icon_manage_profile"
+      android:title="ManageProfile"/>
+
+    <item android:id="@+id/Appointment"
+        android:icon="@drawable/icon_view_appointment_list"
+        android:title="Appointment"/>
+
+    <item android:id="@+id/Make_cancel_Appointment"
+        android:icon="@drawable/icon_make_cancel_appointment"
+        android:title="Cancel_Appointment"/>
+
+  <item android:id="@+id/view_p_details"
+      android:icon="@drawable/icon_view_prescription_details"
+      android:title="Online Articles"/>
+
+  <item android:id="@+id/Doctor_list"
+      android:icon="@drawable/icon_view_doctor_list"
+      android:title="Doctors"/>
+
+  <item android:id="@+id/chat"
+      android:icon="@drawable/chat"
+      android:title="Chat"/>
+
+</menu>

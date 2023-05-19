@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ManageProfile1"
+        android:icon="@drawable/icon_manage_profile"
+        android:title="ManageProfile"/>
+
+    <item android:id="@+id/Appointment1"
+        android:icon="@drawable/icon_view_appointment_list"
+        android:title="Appointment"/>
+
+
+    <item android:id="@+id/view_p_detail1s"
+        android:icon="@drawable/icon_view_prescription_details"
+        android:title="Details"/>
+
+    <item android:id="@+id/chat1"
+        android:icon="@drawable/chat"
+        android:title="Chat"/>
+
+</menu>

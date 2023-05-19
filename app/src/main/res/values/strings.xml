@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">cutsomNavigation</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="Status">
+        <item>Admin</item>
+        <item>Doctor</item>
+        <item>Patient</item>
+    </string-array>
+    <string name="open">Open</string>
+
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="linktosite">
+        <a href="https://en.wikipedia.org/wiki/Medicine">View Medicine Details</a>
+    </string>
+</resources>

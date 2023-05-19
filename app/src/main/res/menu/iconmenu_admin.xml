@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Overview"
+        android:icon="@drawable/icon_manage_profile"
+        android:title="Overview"/>
+
+    <item android:id="@+id/Manage_Doctor_admin"
+        android:icon="@drawable/icon_view_appointment_list"
+        android:title="Manage Doctor"/>
+
+
+    <item android:id="@+id/Manage_Patient_admin"
+        android:icon="@drawable/icon_view_prescription_details"
+        android:title="Manage Patient"/>
+
+    <item android:id="@+id/Chat_admin"
+        android:icon="@drawable/chat"
+        android:title="Chat"/>
+
+</menu>
